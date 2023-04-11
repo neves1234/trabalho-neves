@@ -1,0 +1,54 @@
+  *{
+    padding: 0;
+    margin: 0;
+  }
+  body{
+    background-color: #1F2023;
+    background-image: url(./imagens/celular\ foda.png);
+    background-repeat: no-repeat;
+  }  
+.button{
+    
+    margin-top: 50px;
+    background-color: #EAFF6A;
+    border-radius: 10px;
+    height:50px;
+}
+#linha {
+  width: 30%;
+  border-bottom: 1px solid #ffff;
+}
+#box{
+  background-image: linear-gradient( to right, #E397FE, #EAFF6A ); 
+}
+.botao{
+  background-color: #000;
+  color: #EAFF6A;
+  border-radius: 10px;
+}
+#card{
+  height: 500px;
+  width: 350px;
+  display: inline-block;
+  background-color: #2E2F36;
+}
+.obt{
+  color: #EA90FF;
+}
+img{
+  width: 100%;
+}
+#linhastan{
+  width: 100%;
+  border-bottom: 1px solid #ffff;
+}
+.sob{
+ 
+}
+#cardbox{
+  display: inline-block;
+}
+#aulaex{
+  margin-right: 200px;
+  display: inline-block;
+}
